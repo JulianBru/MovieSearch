@@ -1,0 +1,44 @@
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.exe
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.deps.json
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.runtimeconfig.json
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.runtimeconfig.dev.json
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.dll
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\ref\Filmsuche 4000.dll
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.pdb
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.csprojAssemblyReference.cache
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\App.g.cs
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000_MarkupCompile.cache
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000_MarkupCompile.lref
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.g.resources
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.AssemblyInfoInputs.cache
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.AssemblyInfo.cs
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.csproj.CoreCompileInputs.cache
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.dll
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\ref\Filmsuche 4000.dll
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.pdb
+C:\Temp\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.genruntimeconfig.cache
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.exe
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.deps.json
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.runtimeconfig.json
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.runtimeconfig.dev.json
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.dll
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\ref\Filmsuche 4000.dll
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\bin\Debug\net5.0-windows\Filmsuche 4000.pdb
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.csproj.AssemblyReference.cache
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000_MarkupCompile.cache
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000_MarkupCompile.lref
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.g.resources
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.AssemblyInfoInputs.cache
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.AssemblyInfo.cs
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.dll
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\ref\Filmsuche 4000.dll
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.pdb
+C:\Users\Julian\Downloads\Maco Final\Maco\Labs\Filmsuche 4000\Filmsuche 4000\obj\Debug\net5.0-windows\Filmsuche 4000.genruntimeconfig.cache

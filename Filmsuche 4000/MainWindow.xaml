@@ -1,0 +1,30 @@
+﻿<Window x:Class="Filmsuche_4000.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Filmsuche_4000"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBox Text="{Binding Suche, UpdateSourceTrigger=PropertyChanged,Delay=300}" TextChanged="Suche_Changed"/>
+        <DataGrid Grid.Row="1" ItemsSource="{Binding Data}" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Titel" Binding="{Binding Title}"/>
+                <DataGridTextColumn Header="Jahr" Binding="{Binding Year}"/>
+                <DataGridTextColumn Header="Typ" Binding="{Binding Type}"/>
+                <DataGridTemplateColumn Header="Poster">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Poster}" Height="200" Stretch="Uniform"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
